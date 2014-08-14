@@ -1,0 +1,16 @@
+{
+  "name": "eabso-firefox",
+  "title": "eab.so",
+  "id": "jid1-gMfGxHJJj3be7A",
+  "description": "Share short urls with your friends in #eab",
+  "author": "Steven Frankini",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "preferences": [{
+  	"name": "userName",
+  	"title": "User Name",
+  	"description": "You should put something here",
+  	"type": "string",
+  	"value": "Some Asshole"
+  	}]
+}
